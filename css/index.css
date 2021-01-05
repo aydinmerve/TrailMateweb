@@ -1,0 +1,55 @@
+body{
+    background-color: #212530;
+    color: white;
+    text-align: center;
+
+}
+.buton1{
+    background-color:   #219653;;
+    width: 500px;
+    height: 150px;
+    position: relative;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 25px;
+}
+.buton2{
+    background-color:   #219653;;
+    width: 240px;
+    height: 120px;
+    position: relative;
+    margin: auto;
+    right: 130px;
+    margin-top: 50px;
+    border-radius: 25px;
+}
+.buton3{
+    background-color:   #219653;;
+    width: 240px;
+    height: 120px;
+    position: relative;
+    margin: auto;
+    left: 130px;
+    margin-top: -120px;
+    border-radius: 25px;
+}
+.buton4{
+    background-color:   #219653;;
+    width: 500px;
+    height: 150px;
+    position: relative;
+    margin: auto;
+    margin-top: 60px;
+    border-radius: 25px;
+}
+h1{
+  position: absolute;
+  left: 50%;
+  margin-left: -50px;
+  top: 25%;
+  z-index: 1;
+}
+a{
+  color: white;
+  text-shadow: 3px 2px 1px #000;
+}
