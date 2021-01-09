@@ -7,6 +7,36 @@ body {
     background-color: #212530;
 }
 
+.menu-bar{
+    background: #212530;
+    text-align: center;
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+}
+.menu-bar ul li{
+    width: 150px;
+    margin: 15px;
+    padding: 15px;
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    color: white;
+}
+.menu-bar a:hover{
+    Color: #219653;
+}
+.menu-bar ul li img{
+    width: 150px;
+    height: 150px;
+    margin: auto;
+    padding: auto;
+    top: -35px;
+    position: relative;
+}
+
+
 h2 {
     margin-top: 1em;
     margin-bottom: 1em;
