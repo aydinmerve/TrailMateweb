@@ -75,8 +75,6 @@ body{
 }
 h1{
   position: absolute;
-  left: 50%;
-  margin-left: -50px;
   top: 25%;
   z-index: 1;
 }
